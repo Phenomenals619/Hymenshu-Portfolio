@@ -50,7 +50,7 @@ This portfolio was inspired by:
 
 ## 🔗 Live Demo
 
-[Click here to view the live portfolio]([https://your-portfolio-site.com](https://hymenshu-portfolio.vercel.app/])
+[Click here to view the live portfolio][https://your-portfolio-site.com](https://hymenshu-portfolio.vercel.app/]
 
 ---
 
